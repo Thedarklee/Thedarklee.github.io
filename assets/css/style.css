@@ -8,6 +8,16 @@ body {
 
 }
 
+.boton {
+    font-size: 24px;
+    background-color: rgb(56, 85, 85);
+    color: #ffffff;
+    margin-right: 15px;
+    margin-bottom: 25px;
+}
+.boton-hover {
+    background-color: rgb(25, 36, 36);
+}
 header {
     display: block;
     width: 100%;
