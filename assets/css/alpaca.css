@@ -89,10 +89,23 @@ p,
     padding: 10px;
     box-shadow: 10px 10px 10px rgba(121, 19, 78, 0.87);
 }
-
 .boton:hover {
     background-color: rgb(129, 39, 77);
 }
+.cv {
+    background-color: rgb(250, 56, 137);
+    top: 60%;
+    left: 39%;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgba(121, 19, 78, 0.87);
+
+}
+.cv:hover {
+    background-color: rgb(129, 39, 77);
+}
+
+
 
 .columboton {
     padding: 11px;
